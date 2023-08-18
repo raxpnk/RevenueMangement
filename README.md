@@ -1,2 +1,2 @@
-# RevenueMangement
+# revenuemangement
 Jfree charts
