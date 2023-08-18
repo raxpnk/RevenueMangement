@@ -1,0 +1,7 @@
+Job_No	Price_Paid	Price_per_Slot	No_of_Slot	Cust_Type	Res_Type	CPU	Storage	Bandwidth
+1	2	1	2	yes	3	16	8	8
+2	1	1	1	no	2	8	16	4
+3	1.8	0.3	6	yes	1	4	4	16
+4	3	1	3	no	1	4	4	16
+5	4	2	2	no	2	8	16	4
+6	1.6	0.8	2	yes	2	8	16	4
